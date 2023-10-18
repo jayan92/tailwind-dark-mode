@@ -162,4 +162,4 @@ sr.reveal(".menu__items", { origin: "bottom" });
 
 sr.reveal(".customer__review", { origin: "top" });
 
-sr.reveal(".footer");
+// sr.reveal(".footer", { origin: "bottom" });
