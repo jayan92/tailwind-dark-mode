@@ -1111,6 +1111,10 @@ section{
   color: rgb(192 192 192 / var(--tw-text-opacity));
 }
 
+.container {
+  padding: 0 15px;
+}
+
 @media screen and (max-width: 767px) {
   #nav-menu {
     transition: transform 0.3s ease-in-out;

@@ -152,14 +152,14 @@ sr.reveal(".home__content", { origin: "bottom" });
 
 sr.reveal(".category__card", { interval: 300 });
 
-sr.reveal(".promo__card-1", { origin: "left" });
-sr.reveal(".promo__card-2", { origin: "right" });
+sr.reveal(".promo__card-1", { origin: "bottom" });
+sr.reveal(".promo__card-2", { origin: "top" });
 
 sr.reveal(".about__img", { origin: "bottom" });
 sr.reveal(".about__content", { origin: "top" });
 
-sr.reveal(".menu__items", { origin: "left" });
+sr.reveal(".menu__items", { origin: "bottom" });
 
-sr.reveal(".customer__review", { origin: "right" });
+sr.reveal(".customer__review", { origin: "top" });
 
 sr.reveal(".footer");
